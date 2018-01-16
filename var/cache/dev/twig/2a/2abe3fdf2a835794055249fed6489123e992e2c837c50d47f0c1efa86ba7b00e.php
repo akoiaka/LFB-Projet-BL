@@ -22,29 +22,29 @@ class __TwigTemplate_a3f16d76945a2d4a85b8eeb0833b6a58246e781bb65c2274f44e1be2c65
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_0f6caf9b5bc3250d51f338b4a78a70030b3e5934b8aed117f24ed04e750c604c = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_0f6caf9b5bc3250d51f338b4a78a70030b3e5934b8aed117f24ed04e750c604c->enter($__internal_0f6caf9b5bc3250d51f338b4a78a70030b3e5934b8aed117f24ed04e750c604c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "vues/listearticles.html.twig"));
+        $__internal_e469778d3287346ee2086d26a0f7946371bf25abd6122462220f4fc00c6081f5 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_e469778d3287346ee2086d26a0f7946371bf25abd6122462220f4fc00c6081f5->enter($__internal_e469778d3287346ee2086d26a0f7946371bf25abd6122462220f4fc00c6081f5_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "vues/listearticles.html.twig"));
 
-        $__internal_28736529eaf07fe0325f70ba2eeb58eccf79b1cdded8de4373a90671744b1e2c = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_28736529eaf07fe0325f70ba2eeb58eccf79b1cdded8de4373a90671744b1e2c->enter($__internal_28736529eaf07fe0325f70ba2eeb58eccf79b1cdded8de4373a90671744b1e2c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "vues/listearticles.html.twig"));
+        $__internal_91e3605c4d6f0377da362630f01f8c1a42fdf9359cf40d5d486acdf872727a2d = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_91e3605c4d6f0377da362630f01f8c1a42fdf9359cf40d5d486acdf872727a2d->enter($__internal_91e3605c4d6f0377da362630f01f8c1a42fdf9359cf40d5d486acdf872727a2d_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "vues/listearticles.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_0f6caf9b5bc3250d51f338b4a78a70030b3e5934b8aed117f24ed04e750c604c->leave($__internal_0f6caf9b5bc3250d51f338b4a78a70030b3e5934b8aed117f24ed04e750c604c_prof);
+        $__internal_e469778d3287346ee2086d26a0f7946371bf25abd6122462220f4fc00c6081f5->leave($__internal_e469778d3287346ee2086d26a0f7946371bf25abd6122462220f4fc00c6081f5_prof);
 
         
-        $__internal_28736529eaf07fe0325f70ba2eeb58eccf79b1cdded8de4373a90671744b1e2c->leave($__internal_28736529eaf07fe0325f70ba2eeb58eccf79b1cdded8de4373a90671744b1e2c_prof);
+        $__internal_91e3605c4d6f0377da362630f01f8c1a42fdf9359cf40d5d486acdf872727a2d->leave($__internal_91e3605c4d6f0377da362630f01f8c1a42fdf9359cf40d5d486acdf872727a2d_prof);
 
     }
 
     // line 3
     public function block_body($context, array $blocks = array())
     {
-        $__internal_924003b9a4d0c778ade6fe53226850b715ec2cdff32d44e694085c5318fc7fd3 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_924003b9a4d0c778ade6fe53226850b715ec2cdff32d44e694085c5318fc7fd3->enter($__internal_924003b9a4d0c778ade6fe53226850b715ec2cdff32d44e694085c5318fc7fd3_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_5c465f80553ff8b7f76939d424f1ebd8d9aa8f98daebb2f9d039d3b66353d444 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_5c465f80553ff8b7f76939d424f1ebd8d9aa8f98daebb2f9d039d3b66353d444->enter($__internal_5c465f80553ff8b7f76939d424f1ebd8d9aa8f98daebb2f9d039d3b66353d444_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        $__internal_5c1fa0a296c3bead90bbbc4c65cff07faa0610284423ea957838de36b465111b = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_5c1fa0a296c3bead90bbbc4c65cff07faa0610284423ea957838de36b465111b->enter($__internal_5c1fa0a296c3bead90bbbc4c65cff07faa0610284423ea957838de36b465111b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_612fe26b0c1fe1fe5122776f49f3eaba1bf28d8470783eddf0fc4812e82079e5 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_612fe26b0c1fe1fe5122776f49f3eaba1bf28d8470783eddf0fc4812e82079e5->enter($__internal_612fe26b0c1fe1fe5122776f49f3eaba1bf28d8470783eddf0fc4812e82079e5_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 4
         echo "    <div>
@@ -96,33 +96,33 @@ class __TwigTemplate_a3f16d76945a2d4a85b8eeb0833b6a58246e781bb65c2274f44e1be2c65
             <tbody>
             <tr>
                 <th scope=\"row\">1</th>
-                    <td>001</td>
-                    <td>DC1</td>
-                    <td>F1</td>
-                    <td>HT1</td>
-                    <td>TTC1</td>
-                    <td>ST1</td>
-                    <td>SR1</td>
+                <td>001</td>
+                <td>DC1</td>
+                <td>F1</td>
+                <td>HT1</td>
+                <td>TTC1</td>
+                <td>ST1</td>
+                <td>SR1</td>
             </tr>
             <tr>
                 <th scope=\"row\">2</th>
-                    <td>002</td>
-                    <td>DC2</td>
-                    <td>F2</td>
-                    <td>HT2</td>
-                    <td>TTC2</td>
-                    <td>ST2</td>
-                    <td>SR2</td>
+                <td>002</td>
+                <td>DC2</td>
+                <td>F2</td>
+                <td>HT2</td>
+                <td>TTC2</td>
+                <td>ST2</td>
+                <td>SR2</td>
             </tr>
             <tr>
                 <th scope=\"row\">3</th>
-                    <td>003</td>
-                    <td>DC3</td>
-                    <td>F3</td>
-                    <td>HT3</td>
-                    <td>TTC3</td>
-                    <td>ST3</td>
-                    <td>SR3</td>
+                <td>003</td>
+                <td>DC3</td>
+                <td>F3</td>
+                <td>HT3</td>
+                <td>TTC3</td>
+                <td>ST3</td>
+                <td>SR3</td>
             </tr>
             </tbody>
         </table>
@@ -139,21 +139,21 @@ class __TwigTemplate_a3f16d76945a2d4a85b8eeb0833b6a58246e781bb65c2274f44e1be2c65
     </div>
 ";
         
-        $__internal_5c1fa0a296c3bead90bbbc4c65cff07faa0610284423ea957838de36b465111b->leave($__internal_5c1fa0a296c3bead90bbbc4c65cff07faa0610284423ea957838de36b465111b_prof);
+        $__internal_612fe26b0c1fe1fe5122776f49f3eaba1bf28d8470783eddf0fc4812e82079e5->leave($__internal_612fe26b0c1fe1fe5122776f49f3eaba1bf28d8470783eddf0fc4812e82079e5_prof);
 
         
-        $__internal_924003b9a4d0c778ade6fe53226850b715ec2cdff32d44e694085c5318fc7fd3->leave($__internal_924003b9a4d0c778ade6fe53226850b715ec2cdff32d44e694085c5318fc7fd3_prof);
+        $__internal_5c465f80553ff8b7f76939d424f1ebd8d9aa8f98daebb2f9d039d3b66353d444->leave($__internal_5c465f80553ff8b7f76939d424f1ebd8d9aa8f98daebb2f9d039d3b66353d444_prof);
 
     }
 
     // line 93
     public function block_stylesheets($context, array $blocks = array())
     {
-        $__internal_2b888099002ae35aa52a0f7966529edea92ad8a7ed16058eba71844ba357751d = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_2b888099002ae35aa52a0f7966529edea92ad8a7ed16058eba71844ba357751d->enter($__internal_2b888099002ae35aa52a0f7966529edea92ad8a7ed16058eba71844ba357751d_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_313a231aeaf2b870ddf07a64215ca76e6062134a97ac70613c893bbf62e51807 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_313a231aeaf2b870ddf07a64215ca76e6062134a97ac70613c893bbf62e51807->enter($__internal_313a231aeaf2b870ddf07a64215ca76e6062134a97ac70613c893bbf62e51807_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
-        $__internal_48c0b6322aaedd299b0acf9f8fc90907a1bf3fd56a53046d74dfb42f6aa81ddf = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_48c0b6322aaedd299b0acf9f8fc90907a1bf3fd56a53046d74dfb42f6aa81ddf->enter($__internal_48c0b6322aaedd299b0acf9f8fc90907a1bf3fd56a53046d74dfb42f6aa81ddf_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
+        $__internal_d12172c783e1b196bdec862887cbfb4ba7ecb71971f2cc0415f6c179af73ac0c = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_d12172c783e1b196bdec862887cbfb4ba7ecb71971f2cc0415f6c179af73ac0c->enter($__internal_d12172c783e1b196bdec862887cbfb4ba7ecb71971f2cc0415f6c179af73ac0c_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "stylesheets"));
 
         // line 94
         echo "    <style>
@@ -190,10 +190,10 @@ class __TwigTemplate_a3f16d76945a2d4a85b8eeb0833b6a58246e781bb65c2274f44e1be2c65
     </style>
 ";
         
-        $__internal_48c0b6322aaedd299b0acf9f8fc90907a1bf3fd56a53046d74dfb42f6aa81ddf->leave($__internal_48c0b6322aaedd299b0acf9f8fc90907a1bf3fd56a53046d74dfb42f6aa81ddf_prof);
+        $__internal_d12172c783e1b196bdec862887cbfb4ba7ecb71971f2cc0415f6c179af73ac0c->leave($__internal_d12172c783e1b196bdec862887cbfb4ba7ecb71971f2cc0415f6c179af73ac0c_prof);
 
         
-        $__internal_2b888099002ae35aa52a0f7966529edea92ad8a7ed16058eba71844ba357751d->leave($__internal_2b888099002ae35aa52a0f7966529edea92ad8a7ed16058eba71844ba357751d_prof);
+        $__internal_313a231aeaf2b870ddf07a64215ca76e6062134a97ac70613c893bbf62e51807->leave($__internal_313a231aeaf2b870ddf07a64215ca76e6062134a97ac70613c893bbf62e51807_prof);
 
     }
 
@@ -274,33 +274,33 @@ class __TwigTemplate_a3f16d76945a2d4a85b8eeb0833b6a58246e781bb65c2274f44e1be2c65
             <tbody>
             <tr>
                 <th scope=\"row\">1</th>
-                    <td>001</td>
-                    <td>DC1</td>
-                    <td>F1</td>
-                    <td>HT1</td>
-                    <td>TTC1</td>
-                    <td>ST1</td>
-                    <td>SR1</td>
+                <td>001</td>
+                <td>DC1</td>
+                <td>F1</td>
+                <td>HT1</td>
+                <td>TTC1</td>
+                <td>ST1</td>
+                <td>SR1</td>
             </tr>
             <tr>
                 <th scope=\"row\">2</th>
-                    <td>002</td>
-                    <td>DC2</td>
-                    <td>F2</td>
-                    <td>HT2</td>
-                    <td>TTC2</td>
-                    <td>ST2</td>
-                    <td>SR2</td>
+                <td>002</td>
+                <td>DC2</td>
+                <td>F2</td>
+                <td>HT2</td>
+                <td>TTC2</td>
+                <td>ST2</td>
+                <td>SR2</td>
             </tr>
             <tr>
                 <th scope=\"row\">3</th>
-                    <td>003</td>
-                    <td>DC3</td>
-                    <td>F3</td>
-                    <td>HT3</td>
-                    <td>TTC3</td>
-                    <td>ST3</td>
-                    <td>SR3</td>
+                <td>003</td>
+                <td>DC3</td>
+                <td>F3</td>
+                <td>HT3</td>
+                <td>TTC3</td>
+                <td>ST3</td>
+                <td>SR3</td>
             </tr>
             </tbody>
         </table>
@@ -347,6 +347,6 @@ class __TwigTemplate_a3f16d76945a2d4a85b8eeb0833b6a58246e781bb65c2274f44e1be2c65
         }
 
     </style>
-{% endblock %}", "vues/listearticles.html.twig", "/Users/akoi-aka/lfb_projet_bl/app/Resources/views/vues/listearticles.html.twig");
+{% endblock %}", "vues/listearticles.html.twig", "/Applications/MAMP/htdocs/symphony/LFB-Projet-BL/app/Resources/views/vues/listearticles.html.twig");
     }
 }

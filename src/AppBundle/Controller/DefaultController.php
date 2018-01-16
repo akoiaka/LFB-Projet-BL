@@ -155,6 +155,16 @@ class DefaultController extends Controller
             'base_dir' => realpath($this->getParameter('kernel.project_dir')).DIRECTORY_SEPARATOR,
         ]);
     }
+    /**
+     * @Route("/factpreview", name="factpreview")
+     */
+    public function factpreviewAction(Request $request)
+    {
+        // replace this example code with whatever you need
+        return $this->render('vues/factpreview.html.twig', [
+            'base_dir' => realpath($this->getParameter('kernel.project_dir')).DIRECTORY_SEPARATOR,
+        ]);
+    }
 
 }
 
