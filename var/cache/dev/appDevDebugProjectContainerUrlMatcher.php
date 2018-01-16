@@ -161,9 +161,17 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
 
         }
 
-        // bl
-        if ('/bl' === $pathinfo) {
-            return array (  '_controller' => 'AppBundle\\Controller\\DefaultController::blAction',  '_route' => 'bl',);
+        elseif (0 === strpos($pathinfo, '/bl')) {
+            // bl
+            if ('/bl' === $pathinfo) {
+                return array (  '_controller' => 'AppBundle\\Controller\\DefaultController::blAction',  '_route' => 'bl',);
+            }
+
+            // blpreview
+            if ('/blpreview' === $pathinfo) {
+                return array (  '_controller' => 'AppBundle\\Controller\\DefaultController::blpreviewAction',  '_route' => 'blpreview',);
+            }
+
         }
 
         // factures

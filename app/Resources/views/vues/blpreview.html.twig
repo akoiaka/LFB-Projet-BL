@@ -1,0 +1,63 @@
+{% extends 'base.html.twig' %}
+{% block header %}
+    <div class="en-tete">
+        <img>LOGO LFB</img>
+        <button><a href="{{ path('page1') }}">Fermer cette fenêtre</a></button>
+    </div>
+{% endblock %}
+{% block body %}
+    <div name="print">
+        <img src="" alt="" name="imgprint">
+        <p>Imprimer le Bon</p>
+    </div>
+    <div>
+        <h2>BON DE LIVRAISON N.</h2>
+        <div class="well"></div>
+    </div>
+    <div class="jumbotron">
+        <input type="date">
+        <input type="text">
+        <textarea name="adresseclient"></textarea>
+        <textarea name="remarque" id="" cols="30" rows="10">Remarque</textarea>
+    </div>
+    <div>
+        <table class="table table-sm table-hover">
+            <thead>
+            <tr>
+                <th scope="col">Article</th>
+                <th scope="col">Désignation</th>
+                <th scope="col">Quantité</th>
+                <th scope="col">Reste à livrer</th>
+
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">Nom de l'Article</th>
+                    <td>---</td>
+                    <td>---</td>
+                    <td>---</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="jumbotron lfb" name="lfb">
+        <h5>Siège social</h5>
+        <h4>LFB BIOMANUFACTURING</h4>
+        <h5>SASU au capital de 630 800 Euros - 499 272 508 RCS Nîmes</h5>
+        <h5>Avenue des Chênes Rouges - 30100 ALES - FRANCE</h5>
+    </div>
+{% endblock %}
+{% block stylesheets %}
+    <style>
+         .lfb{
+             width:30%;
+             margin:auto;
+             border:solid 1px black;
+             text-align:center;}
+        button {
+            margin-top: 40px;
+        }
+    </style>
+{% endblock %}
+
