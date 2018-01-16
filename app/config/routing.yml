@@ -1,0 +1,13 @@
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+
+page_accueil:
+    path:   /accueil
+    defaults:   {_controller: AppBundle:Controller:Default}
+    requirements:
+        page: '\d+'
+
+login:
+    path:     /login
+    defaults: { _controller: AppBundle:Security:login }

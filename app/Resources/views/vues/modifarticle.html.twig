@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+{% block body%}
+<div class="jumbotron">
+    <span>Code Article</span><div class="well" name="codeart"></div>
+    <span>Dénomination</span><div class="well" name="denart"></div>
+    <span>Famille</span><div class="well" name="famart"></div>
+    <span>Prix HT</span><div class="well" name="htart"></div>
+    <span>Prix TTC</span><div class="well" name="ttcart"></div>
+    <span>Quantité</span><div class="well" name="qtart"></div>
+    <button class="btn btn-success" name="modifarticlebtn">CONFIRMER</button>
+</div>
+<div class="row">
+    <div class="col-lg-6"></div>
+    <button class="col-lg-6"><a href="listearticles.html.twig">ANNULER</button>
+    <div class="col-lg-6"></div>
+    <button class="col-lg-6"><a href="{{ path('page1') }}">Revenir sur la page d'accueil</a></button>
+</div>
+{% endblock %}
