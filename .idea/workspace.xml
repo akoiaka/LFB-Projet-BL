@@ -2,252 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf5624d-d677-4cdf-8aa3-326cd8f507eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/vues/factpreview.html.twig" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka.legacy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/appDevDebugProjectContainer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getAnnotations_CacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getArgumentResolver_DefaultService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getArgumentResolver_RequestAttributeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getArgumentResolver_RequestService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getArgumentResolver_ServiceService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getArgumentResolver_SessionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getArgumentResolver_VariadicService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getCacheClearerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getCacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getCache_DefaultClearerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getCache_GlobalClearerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getCache_SystemClearerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConfig_Resource_SelfCheckingResourceCheckerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_CommandLoaderService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_AboutService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_AssetsInstallService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_CacheClearService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_CachePoolClearService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_CachePoolPruneService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_CacheWarmupService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_ConfigDebugService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_ConfigDumpReferenceService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_ContainerDebugService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_DebugAutowiringService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_EventDispatcherDebugService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_FormDebugService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_RouterDebugService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_RouterMatchService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_XliffLintService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_Command_YamlLintService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getConsole_ErrorListenerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDebug_DumpListenerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDefaultControllerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDependencyInjection_Config_ContainerParametersResourceCheckerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDeprecated_Form_RegistryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDeprecated_Form_Registry_CsrfService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_ContainsCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_DeleteCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_FlushCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_Providers_Doctrine_Orm_DefaultMetadataCacheService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_Providers_Doctrine_Orm_DefaultQueryCacheService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_Providers_Doctrine_Orm_DefaultResultCacheService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrineCache_StatsCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_CacheClearMetadataCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_CacheClearQueryCacheCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_CacheClearResultCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_CacheCollectionRegionCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_ClearEntityRegionCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_ClearQueryRegionCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_DatabaseCreateCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_DatabaseDropCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_DatabaseImportCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Dbal_ConnectionFactoryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Dbal_DefaultConnectionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_EnsureProductionSettingsCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_GenerateEntitiesCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_MappingConvertCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_MappingImportCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_MappingInfoCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_DefaultEntityListenerResolverService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_DefaultEntityManagerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_DefaultEntityManager_PropertyInfoExtractorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_DefaultListeners_AttachEntityListenersService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_DefaultManagerConfiguratorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_ProxyCacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_Orm_Validator_UniqueService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_QueryDqlCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_QuerySqlCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_SchemaCreateCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_SchemaDropCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_SchemaUpdateCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getDoctrine_SchemaValidateCommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getFileLocatorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getFilesystemService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_FactoryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_RegistryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_ResolvedTypeFactoryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_ServerParamsService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_CsrfService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_Form_DataCollectorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_Form_HttpFoundationService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_Form_ValidatorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_Repeated_ValidatorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_Submit_ValidatorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeExtension_Upload_ValidatorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeGuesser_DoctrineService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_TypeGuesser_ValidatorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_BirthdayService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_ButtonService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_CheckboxService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_ChoiceService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_CollectionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_CountryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_CurrencyService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_DateService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_DatetimeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_EmailService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_EntityService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_FileService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_FormService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_HiddenService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_IntegerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_LanguageService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_LocaleService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_MoneyService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_NumberService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_PasswordService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_PercentService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_RadioService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_RangeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_RepeatedService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_ResetService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_SearchService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_SubmitService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_TextService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_TextareaService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_TimeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_TimezoneService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getForm_Type_UrlService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getFragment_HandlerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getFragment_Renderer_HincludeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getFragment_Renderer_InlineService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getKernel_ClassCache_CacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getMonolog_ActivationStrategy_NotFoundService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getMonolog_Handler_FingersCrossed_ErrorLevelActivationStrategyService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getMonolog_Handler_NullInternalService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getMonolog_Logger_ConsoleService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getMonolog_Logger_DoctrineService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getMonolog_Logger_SecurityService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getPropertyAccessorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getRedirectControllerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getRouter_CacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getRouting_LoaderService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurityControllerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_AccessListenerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_AccessMapService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Access_AuthenticatedVoterService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Access_ExpressionVoterService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Access_SimpleRoleVoterService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_AuthenticationUtilsService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Authentication_GuardHandlerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Authentication_Listener_Anonymous_MainService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Authentication_Listener_Form_MainService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Authentication_Provider_Anonymous_MainService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Authentication_Provider_Dao_MainService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_ChannelListenerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Command_UserPasswordEncoderService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_ContextListener_0Service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Csrf_TokenManagerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_EncoderFactoryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Firewall_Map_Context_DevService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Firewall_Map_Context_MainService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_HttpUtilsService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_PasswordEncoderService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_RequestMatcher_Zfhj2lwService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_UserValueResolverService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_User_Provider_Concrete_InMemoryService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSecurity_Validator_UserPasswordService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSensioDistribution_SecurityCheckerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSensioDistribution_SecurityChecker_CommandService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getServiceLocator__5knmdoService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getServicesResetterService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSessionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSession_HandlerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSession_Storage_FilesystemService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSession_Storage_MetadataBagService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSession_Storage_NativeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSession_Storage_PhpBridgeService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_EmailSender_ListenerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_Mailer_DefaultService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_Mailer_Default_Plugin_MessageloggerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_Mailer_Default_SpoolService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_Mailer_Default_TransportService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_Mailer_Default_Transport_EventdispatcherService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getSwiftmailer_Mailer_Default_Transport_RealService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTemplateControllerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTemplating_Helper_LogoutUrlService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTemplating_Helper_SecurityService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_CacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Command_DebugService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Command_LintService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Controller_ExceptionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Controller_PreviewErrorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_ExceptionListenerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Form_RendererService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Runtime_HttpkernelService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_TemplateCacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getTwig_Translation_ExtractorService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getValidator_EmailService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getValidator_ExpressionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getValidator_Mapping_CacheWarmerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getVarDumper_CliDumperService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebProfiler_Controller_ExceptionService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebProfiler_Controller_ProfilerService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebProfiler_Controller_RouterService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebServer_Command_ServerLogService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebServer_Command_ServerRunService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebServer_Command_ServerStartService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebServer_Command_ServerStatusService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/getWebServer_Command_ServerStopService.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/Container4xpuqka/removed-ids.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/+/O/LUdD-WPNE77sOe8WpF4Q" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/+/O/LUdD-WPNE77sOe8WpF4Q" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/M/f17YGOFHmGhHKHD0hCMI" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/M/f17YGOFHmGhHKHD0hCMI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/S/XFduC3N0omJ1XWh9Buv9" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/S/XFduC3N0omJ1XWh9Buv9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/U/2S3ThGflFEHDXUnUr1vm" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/U/2S3ThGflFEHDXUnUr1vm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/J/4/FbBkXxHgnohHN+nVXbXl" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/J/4/FbBkXxHgnohHN+nVXbXl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/O/2/Gj3q-PZ3Zu75bqRTJODP" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/O/2/Gj3q-PZ3Zu75bqRTJODP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/O/C/kk2eNsXNvqLNJlgjx8Lp" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/O/C/kk2eNsXNvqLNJlgjx8Lp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/P/X/vWVGo9MFcRIqC5oz6IE5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/P/X/vWVGo9MFcRIqC5oz6IE5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/S/9/KOtXJ3NRTEoNVdeMcbco" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/S/9/KOtXJ3NRTEoNVdeMcbco" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/S/J/3kNHUtc3IBK7ekHBssM5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/S/J/3kNHUtc3IBK7ekHBssM5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/T/Q/C6CAd0VLJoox-odCziw0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/T/Q/C6CAd0VLJoox-odCziw0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/V/L/zHU-Oh+EBMGST2F9bBfS" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/V/L/zHU-Oh+EBMGST2F9bBfS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/X/V/rdRFbGhiBp4zUdvSbbcj" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/X/V/rdRFbGhiBp4zUdvSbbcj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/vues/listearticles.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/vues/listearticles.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/+/S/wQ07sWypmmLfa8QR1GEJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/+/S/wQ07sWypmmLfa8QR1GEJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/+/V/HDr5CMHRfaUF1002wfP8" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/+/V/HDr5CMHRfaUF1002wfP8" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/7/TB1qwzoNjVe383aEgYEJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/-/7/TB1qwzoNjVe383aEgYEJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/6/0/cMSfv3urKg+FuvfBsIz3" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/6/0/cMSfv3urKg+FuvfBsIz3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/A/G/FT+ony8rJq-uN9Neh0qq" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/A/G/FT+ony8rJq-uN9Neh0qq" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/A/W/pWowK1X+V-+JqrMMX7nx" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/A/W/pWowK1X+V-+JqrMMX7nx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/B/S/j9rpAPEHPceICsngLsxs" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/B/S/j9rpAPEHPceICsngLsxs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/D/M/YuEL7zwSSUt+Xk3-Ksta" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/D/M/YuEL7zwSSUt+Xk3-Ksta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/G/9/okgtPPFXAeE3ENAgvWsF" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/G/9/okgtPPFXAeE3ENAgvWsF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/I/B/uefxdzz+TfyyguSSzrpO" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/I/B/uefxdzz+TfyyguSSzrpO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/M/V/yLfyoPExrruIgsbLL0GO" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/M/V/yLfyoPExrruIgsbLL0GO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/N/O/b9Nu0AFqM0QBiNCI1llX" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/N/O/b9Nu0AFqM0QBiNCI1llX" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/O/E/5QSrdsCY1304qssgXPcs" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/O/E/5QSrdsCY1304qssgXPcs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/U/E/bwbbM+6+NH2P0zTkqNzf" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/U/E/bwbbM+6+NH2P0zTkqNzf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/X/T/b+lBMrqZaWzJniS2Tik0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/g90-ortYsx/X/T/b+lBMrqZaWzJniS2Tik0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/vues/bllist.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/vues/bllist.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/vues/factlist.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/vues/factlist.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/vues/factpreview.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/vues/factpreview.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/29/2974a4b8018240b8bad81a2ad5ff2c19c4f4aeb83be94bfb93edde157d74ccc7.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/29/2974a4b8018240b8bad81a2ad5ff2c19c4f4aeb83be94bfb93edde157d74ccc7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/2a/2abe3fdf2a835794055249fed6489123e992e2c837c50d47f0c1efa86ba7b00e.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/2a/2abe3fdf2a835794055249fed6489123e992e2c837c50d47f0c1efa86ba7b00e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/90/90c96766047afae68465e17c24e53b273a61282cc964cfbeb9362d9dd2e108cf.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/90/90c96766047afae68465e17c24e53b273a61282cc964cfbeb9362d9dd2e108cf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/e1/e13b8a37faa7ea47f95216aeb916f5c3d9860f3a303f11269c26fb5250abdf2a.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/e1/e13b8a37faa7ea47f95216aeb916f5c3d9860f3a303f11269c26fb5250abdf2a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,44 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="factures.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factures.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bl.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bl.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-              <folding>
-                <element signature="e#2092#2126#0#HTML" expanded="true" />
-                <element signature="e#2160#2194#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/article.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="factpreview.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="factpreview.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factpreview.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+            <state relative-caret-position="194">
+              <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -305,6 +33,16 @@
       </file>
       <file leaf-file-name="factlist.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factlist.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archives.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/archives.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -316,28 +54,28 @@
       <file leaf-file-name="client.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/client.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-761">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="521">
+              <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
+            <state relative-caret-position="1139">
               <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blpreview.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/blpreview.html.twig">
+      <file leaf-file-name="factures.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factures.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-759">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="-159">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -346,8 +84,18 @@
       <file leaf-file-name="listearticles.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/listearticles.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+            <state relative-caret-position="-639">
+              <caret line="44" column="27" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="59" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bl.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bl.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -356,8 +104,18 @@
       <file leaf-file-name="bllist.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bllist.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listeclients.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/listeclients.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2176">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -377,6 +135,8 @@
         <option value="$PROJECT_DIR$/app/Resources/views/vues/listearticles.html.twig" />
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/vues/factpreview.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/vues/bllist.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/vues/factlist.html.twig" />
       </list>
     </option>
   </component>
@@ -720,12 +480,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516099310720</updated>
-      <workItem from="1516099312616" duration="13181000" />
+      <workItem from="1516099312616" duration="17850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13181000" />
+    <option name="totallyTimeSpent" value="17850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="0" width="1280" height="1024" extended-state="0" />
@@ -799,14 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/archives.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/accueil.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-303">
@@ -820,49 +572,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/listeclients.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="89" column="11" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="89" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factures.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factlist.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bllist.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bl.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-          <folding>
-            <element signature="e#2092#2126#0#HTML" expanded="true" />
-            <element signature="e#2160#2194#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,34 +591,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/client.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/archives.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-761">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bl.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        <state relative-caret-position="128">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/listeclients.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2176">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/listearticles.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        <state relative-caret-position="-639">
+          <caret line="44" column="27" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="59" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/client.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factures.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factpreview.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        <state relative-caret-position="194">
+          <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/bllist.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/vues/factlist.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
           <folding />
         </state>
       </provider>
