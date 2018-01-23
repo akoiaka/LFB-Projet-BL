@@ -1,3 +1,15 @@
+bl_form:
+    resource: "@BLFormBundle/Resources/config/routing.yml"
+    prefix:   /
+
+#bl_formulaires:
+#    resource: "@BlFormulairesBundle/Resources/config/routing.yml"
+#    prefix:   /
+
+#bl_forms:
+#    resource: "@BLFormsBundle/Resources/config/routing.yml"
+#    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation

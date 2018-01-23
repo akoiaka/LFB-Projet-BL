@@ -1,0 +1,3 @@
+bl_formulaires_homepage:
+    path:     /
+    defaults: { _controller: BlFormulairesBundle:Default:index }

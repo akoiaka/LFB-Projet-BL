@@ -3,21 +3,21 @@
 <h1>Bienvenue sur votre plateforme de travail</h1>
     <h4>Que souhaitez-vous faire ?</h4>
 
-<button class="btn btn-primary" style="width: 400px; height: 50px">
-    <a href="{{ path('articles') }}">CONSULTER LES ARTICLES</a>
-</button>
-<button class="btn btn-primary" style="width: 400px; height: 50px">
-    <a href="{{ path('clients') }}">VOIR MES CLIENTS</a>
-</button>
-<button class="btn btn-primary" style="width: 400px; height: 50px">
-    <a href="{{ path('archives') }}">CONSULTER LES ARCHIVES</a>
-</button>
-<button class="btn btn-primary" style="width: 400px; height: 50px">
-    <a href="{{ path('bl') }}">CREER UN BON DE LIVRAISON</a>
-</button>
-<button class="btn btn-primary" style="width: 400px; height: 50px">
-    <a href="{{ path('factures') }}">CREER UNE FACTURE PRO FORMA</a>
-</button>
+    <a href="{{ path('articles') }}"><button class="btn btn-primary" style="width: 400px; height: 50px">
+    CONSULTER LES ARTICLES
+</button></a>
+    <a href="{{ path('clients') }}"><button class="btn btn-primary" style="width: 400px; height: 50px">
+    VOIR MES CLIENTS
+</button></a>
+    <a href="{{ path('archives') }}"><button class="btn btn-primary" style="width: 400px; height: 50px">
+    CONSULTER LES ARCHIVES
+</button></a>
+    <a href="{{ path('bl') }}"><button class="btn btn-primary" style="width: 400px; height: 50px">
+    CREER UN BON DE LIVRAISON
+</button></a>
+    <a href="{{ path('factures') }}"><button class="btn btn-primary" style="width: 400px; height: 50px">
+    CREER UNE FACTURE PRO FORMA
+</button></a>
 {% endblock %}
 
 {% block stylesheets %}
@@ -27,8 +27,7 @@
        }
        button {
             margin-top: 40px;
-           display: flex;
-flex-direction: column
+
        }
     </style>
 {% endblock %}

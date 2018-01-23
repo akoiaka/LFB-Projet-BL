@@ -1,0 +1,3 @@
+bl_form_homepage:
+    path:     /
+    defaults: { _controller: BLFormBundle:Default:index }
